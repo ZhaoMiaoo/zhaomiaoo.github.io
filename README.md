@@ -10,7 +10,7 @@
 
 ![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
-![](screenshot/jekyll-theme-h2o-realm.png)
+
 
 如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
 
