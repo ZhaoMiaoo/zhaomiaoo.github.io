@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 我不想当月光族白领了
+title: '我不想当月光族白领了'
 date: 2018-09-13
-author: '赵苗'
+author: 赵苗
 cover: 'https://ws4.sinaimg.cn/large/0069RVTdgy1fv85dss1z3j31hc0u0dmw.jpg'
-tags: '随笔'
+tags: 随笔
 ---
 
 ​	小阿姨上星期裸辞了。
